@@ -1,2 +1,2 @@
-# triggo-challenge
-This project aims to solve real business problems as a challenge for a Data Engeneer and Data Ops position in  [Triggo.ai](https://triggo.ai/). 
+# Brazil Ecommerce
+This project aims to solve real business problems based on a dataset avaible on [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). 
