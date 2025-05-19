@@ -83,14 +83,15 @@ This project analyzes the Olist Brazilian E-commerce Public Dataset to extract b
 
    ```bash
    pip install -r requirements.txt
+
    ```
+
+3. Download the dataset: [Brazilian E-commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). The csv files uploaded on the data folder, are too big so they're just half of the data to work as a sample.
 
 3. Execute the notebooks in the following order:
 
-   * Data Preparation
-   * Exploratory Data Analysis
-   * Business Problem Solving
-   * Data Visualization and Dashboarding
+   * 01_data_preparation_and_merge.ipynb
+   * 02_analysis_and_modeling.ipynb
 
 ## Technologies Used
 
