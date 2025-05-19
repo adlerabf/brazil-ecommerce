@@ -75,8 +75,8 @@ This project analyzes the Olist Brazilian E-commerce Public Dataset to extract b
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/adlerabf/brazil-ecommerce-analysis.git
+   cd brazil-ecommerce-analysis
    ```
 
 2. Install the required libraries:
