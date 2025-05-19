@@ -1,4 +1,4 @@
-# Brazilian E-commerce Data Analysis Project
+# Brazil E-commerce Data Analysis Project
 
 ## Project Overview
 
